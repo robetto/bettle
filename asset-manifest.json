@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robetto/bettle/static/css/main.d46d856c.css",
+    "main.js": "/robetto/bettle/static/js/main.f8c5c054.js",
+    "static/js/787.e01666d6.chunk.js": "/robetto/bettle/static/js/787.e01666d6.chunk.js",
+    "index.html": "/robetto/bettle/index.html",
+    "main.d46d856c.css.map": "/robetto/bettle/static/css/main.d46d856c.css.map",
+    "main.f8c5c054.js.map": "/robetto/bettle/static/js/main.f8c5c054.js.map",
+    "787.e01666d6.chunk.js.map": "/robetto/bettle/static/js/787.e01666d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d46d856c.css",
+    "static/js/main.f8c5c054.js"
+  ]
+}
